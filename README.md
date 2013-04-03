@@ -2,6 +2,7 @@ htaccess
 ========
 
 Apache security enforcement
+Secure your server! Protect your web apps! load your sites faster! avoid malware! block malicious code! Block hackers IP's! 
 
 Summary:
 
@@ -21,34 +22,34 @@ What is this?
 =======
 -----
 
-A collection of useful scripts, libraries, programs, utilities and tools that should run on linux/unix like platforms.
+A collection of the configurations for the security of your Apache Server. This that should run on linux/unix like platforms.
 
 What can htaccess do for me?
 =======
 -----
-For what use is a shell script? To automate tasks that we usually saving the user considerable time.
+For what use this a htaccess file? To automate tasks that we usually saving the user considerable time.
 
 Why htaccess is created and good for me?
 =======
 -----
-that for many system administrators it impossible to memorize an infinite number of commands rather have a stock scripts for use according to the needs.
+that for many forefront y back-end administrators it impossible to memorize an infinite number of configurations and tricks rather have a stock of the configurations for use according to the needs.
 
-When to run this scripts?
+When to run this htaccess?
 =======
 -----
-These can run every single need that need GITs and then clone these scripts to a directory with privileges
+These can run every single need that need GITs and then clone these htaccess to a root directory of your website with the proper privileges
 
-Where I can run these scripts?
+Where I can run these htaccess file?
 =======
 -----
-These scripts can be run on a machine according to their characteristics of hardware, operating system, installed software and architecture. You can also use both personally and commercially.
+These htaccess file can be run on root of the website or webapp, even in virtual host.
 
-Who can run these scripts?
+Who can run htaccess file?
 =======
 -----
 These scripts can be executed by a person with basic knowledge about using the htaccess, execute permissions and privileges restrictions
 
-How I can run these scripts in the htaccess?
+How I can run these htaccess file?
 =======
 -----
 
@@ -62,28 +63,6 @@ get into path
 then
 
 * $ ./mi_script.sh
-
-or 
-
-* $ ./path/to/scripts/mi_script.sh
-
-or 
-
-* $ sh mi_script.sh
-
-or 
-
-* $ source ./mi_script.sh
-
-or 
-
-put in the PATH If you wanna ;
-
-* $ export PATH=$PATH:/path/to/scripts/
-
-then
-
-runs the script the way you like ;)
 
 
 How much is the cost for this scripts?
